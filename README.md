@@ -22,12 +22,12 @@
 <form style="background:lightcyan">
     <fieldset>
 
-<legend style=color:slateblue><h2>Personal Information</h2></legend>
+<legend>Personal Information</legend>
            <label>Name:</label>
 <input type="text" required> <br>
 
             
-<p>Gender:
+<p>Gender:</p>
             <input type="radio" value="Male" name="Gender" id="male">
             <label for="male">Male</label>
 
