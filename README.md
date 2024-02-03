@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Form</title>
+    
 </head>
 <body>
 <p style="background:lightgoldenrodyellow" >
@@ -21,9 +21,15 @@
 
 <form style="background:lightcyan">
     <fieldset>
+<<<<<<< HEAD
     <legend style=color:slateblue><h2>Personal Information</h2></legend>
             <label> Name:</label>
             <input type="text" required > <br>
+=======
+<legend style=color:slateblue><h2>Personal Information</h2></legend>
+           <label>Name:</label>
+<input type="text" required> <br>
+>>>>>>> ebfac543e570c95fbf04cece0aa1677eaf718029
             
 <p>Gender:
             <input type="radio" value="Male" name="Gender" id="male">
