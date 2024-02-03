@@ -25,7 +25,7 @@
 <legend style=color:slateblue><h2>Personal Information</h2></legend>
            <label>Name:</label>
 <input type="text" required> <br>
->>>>>>> ebfac543e570c95fbf04cece0aa1677eaf718029
+
             
 <p>Gender:
             <input type="radio" value="Male" name="Gender" id="male">
