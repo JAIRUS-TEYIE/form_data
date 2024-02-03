@@ -22,7 +22,7 @@
 <form style="background:lightcyan">
     <fieldset>
 
-<legend ><h2><b>Personal Information<b><h2></legend>
+<legend >Personal Information</legend>
            <label>Name:</label>
 <input type="text" required> <br>
 
@@ -75,7 +75,7 @@
 <input type="submit" value="submit">
 
 
-</fieldset>
+   </fieldset>
 </form>
 </body>
 </html>
