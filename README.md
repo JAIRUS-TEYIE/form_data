@@ -33,7 +33,7 @@
 
 <input type="radio" value="Female" name="Gender" id="female">
             <label for="female">Female</label>
-            </p> <br>
+             <br>
 
 <label>ID/Passport:</label>
            <input type="number" required> 
