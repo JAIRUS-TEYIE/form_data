@@ -21,9 +21,9 @@
 
 <form style="background:lightcyan">
     <fieldset>
-        <legend style=color:slateblue><h2>Personal Information</h2></legend>
-        <label> Name:</label>
-        <input type="text" required > <br>
+    <legend style=color:slateblue><h2>Personal Information</h2></legend>
+            <label> Name:</label>
+            <input type="text" required > <br>
             
 <p>Gender:
             <input type="radio" value="Male" name="Gender" id="male">
