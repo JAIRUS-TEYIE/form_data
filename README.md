@@ -20,9 +20,9 @@
 </p>
 
 <form style="background:lightcyan">
-<fieldset>
+    <fieldset>
 <legend style=color:slateblue><h2>Personal Information</h2></legend>
-<label>Name:</label>
+           <label>Name:</label>
 <input type="text" required> <br>
             
 <p>Gender:
