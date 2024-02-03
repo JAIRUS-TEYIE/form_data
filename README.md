@@ -21,11 +21,7 @@
 
 <form style="background:lightcyan">
     <fieldset>
-<<<<<<< HEAD
-    <legend style=color:slateblue><h2>Personal Information</h2></legend>
-            <label> Name:</label>
-            <input type="text" required > <br>
-=======
+
 <legend style=color:slateblue><h2>Personal Information</h2></legend>
            <label>Name:</label>
 <input type="text" required> <br>
