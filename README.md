@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+
 </head>
 <body>
 <p style="background:lightgoldenrodyellow" >
@@ -22,7 +22,7 @@
 <form style="background:lightcyan">
     <fieldset>
 
-<legend>Personal Information</legend>
+<legend ><h2><b>Personal Information<b><h2></legend>
            <label>Name:</label>
 <input type="text" required> <br>
 
